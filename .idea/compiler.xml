@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flumeinterceptor" />
+        <module name="onlyscala" />
+        <module name="onlyspark" />
+        <module name="scala0218" />
+        <module name="scala0311" />
+        <module name="scala0513" />
+        <module name="spark01050613" />
+        <module name="testes" />
+        <module name="testJedis" />
+        <module name="TestSonModule" />
+        <module name="testVersion" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
